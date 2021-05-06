@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 
-// pin connected to the NeoPixels
+// pin connected to the NeoPixels_01
 #define RPIN        21
 #define YPIN        22
 #define GPIN        23
